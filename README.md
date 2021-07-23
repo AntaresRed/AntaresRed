@@ -1,4 +1,4 @@
-### <center >Hi there I'm Anuj Kapse aka AntaresRed😁👋 <center>
+### <centre> Hi there I'm Anuj Kapse aka AntaresRed😁👋 <centre>
 ### Nice to meet you!!!
 
 ![counter](https://endtfbbs2wigef.m.pipedream.net)
