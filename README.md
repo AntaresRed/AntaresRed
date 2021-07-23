@@ -1,9 +1,7 @@
 ### Hi there I'm Anuj Kapse aka AntaresRed😁👋
 ### Nice to meet you!!!
 
-**AntaresRed/AntaresRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![counter](https://endtfbbs2wigef.m.pipedream.net)
 
 - 🔭 I’m currently working on developing my skills and trying to learn as much as possible.
 - 🌱 I’m currently learning Flutter, Node.js and improving my Data Structures and Algorithms concepts.
@@ -13,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Messenger pigeons will do. Or you can use my LinkedIn https://www.linkedin.com/in/anuj-kapse-744a00200/
 - ⚡ Fun fact: Here's an interesting video i found....https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-![counter](https://endtfbbs2wigef.m.pipedream.net)
 
 [![Antares's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntaresRed&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/AntaresRed/github-readme-stats)
 
