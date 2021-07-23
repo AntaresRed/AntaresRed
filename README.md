@@ -1,4 +1,4 @@
-### Hi there I'm Anuj Kapse aka AntaresRed😁👋
+### <center >Hi there I'm Anuj Kapse aka AntaresRed😁👋 <center>
 ### Nice to meet you!!!
 
 ![counter](https://endtfbbs2wigef.m.pipedream.net)
@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntaresRed&layout=compact)](https://github.com/AntaresRed/github-readme-stats)
 
 💻🖥 Skills learnt so far:
-![Python]({"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"})
+({"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"})
 ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 ![image]({https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white})
 ![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white})
