@@ -1,6 +1,6 @@
 ### Hi there I'm Anuj Kapse aka AntaresRed😁👋
 ### Nice to meet you!!!
-<!--
+
 **AntaresRed/AntaresRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
